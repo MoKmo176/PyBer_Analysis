@@ -5,7 +5,7 @@
 ### Purpose
 This analysis of PyBer Ride Sharing App is to analyze customer data to better understand the market for ride sharing services.   The most important segementation in this analysis is the the "type" of markets, which include: urban, suburban, and rural. The dataset focuses on Total Rides, Total Drivers, Total Fares, as well as their average fares per Ride and per Driver. 
 
--
+
 
 ## Results and Analysis 
 
@@ -22,7 +22,7 @@ Suburban and Rural Average Fare Per Ride is very similar, but Total Fares betwee
 
 
 
--
+
 
 
 ## Summary
